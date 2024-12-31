@@ -1,7 +1,3 @@
-
-![Logo](https://i.ibb.co/Yb8zMzn/randompi-header.png)
-
-
 # RandomPi
 
 RandomPi is a simple package that uses the PyPi api to get a random python package.
